@@ -1,0 +1,6 @@
+# Formula 1 ERS Simulation and Lap Time Comparison Suite
+# Core numerical engine requires only NumPy!
+numpy>=1.22.0
+
+# Optional: for standalone matplotlib plotting script
+# matplotlib>=3.5.0
